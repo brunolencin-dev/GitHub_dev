@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "2.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/bruno-lencin/GitHub_dev/main/ColdMillRiskManagement.apk",
+  "releaseNotes": "• Versão 2.0.0 com visual executivo e ícones multicor.\n• Cores temáticas sincronizadas em todas as telas.\n• Abas para múltiplos códigos SAP em Sobressalentes.\n• Confirmação antes de excluir módulos VDM6000.\n• Verificação de atualizações no menu de 3 pontinhos.",
+  "forceUpdate": false
+}
