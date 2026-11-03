@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "2.2.0",
+  "versionCode": 6,
+  "versionName": "2.2.1",
   "apkUrl": "https://raw.githubusercontent.com/brunolencin-dev/GitHub_dev/main/ColdMillRiskManagement.apk",
-  "releaseNotes": "• Versão 2.2.0: Auto-Backup automático em segundo plano a cada alteração de nota.\n• Integração com o repositório público GitHub para atualizações instantâneas no app.\n• Melhorias gerais na navegação e estabilidade do aplicativo.",
+  "releaseNotes": "• Versão 2.2.1: Suporte a redirecionamentos de download do GitHub.\n• Download e instalação de novos APKs com 1 clique diretamente pelo app.\n• Auto-Backup automático em segundo plano a cada alteração de nota.",
   "forceUpdate": false
 }
