@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "2.0.1",
+  "versionCode": 4,
+  "versionName": "2.1.0",
   "apkUrl": "https://raw.githubusercontent.com/bruno-lencin/GitHub_dev/main/ColdMillRiskManagement.apk",
-  "releaseNotes": "• Lançamento oficial v2.0.1 com atualização automática em nuvem.\n• Melhorias na busca por múltiplos códigos SAP.\n• Suporte completo ao download e instalação direta de novos APKs.",
+  "releaseNotes": "• Versão 2.1.0: Contagem total de pendências no topo das abas Lado Operador e Lado Motor nas Cadeiras.\n• Barra de navegação inferior do celular ajustada para modo claro (botões pretos) e modo escuro (botões brancos).\n• Exibição da versão atual instalada ao consultar atualizações no menu.",
   "forceUpdate": false
 }
