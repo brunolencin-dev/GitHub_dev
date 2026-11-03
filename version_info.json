@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "2.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/bruno-lencin/GitHub_dev/main/ColdMillRiskManagement.apk",
-  "releaseNotes": "• Versão 2.1.0: Contagem total de pendências no topo das abas Lado Operador e Lado Motor nas Cadeiras.\n• Barra de navegação inferior do celular ajustada para modo claro (botões pretos) e modo escuro (botões brancos).\n• Exibição da versão atual instalada ao consultar atualizações no menu.",
+  "versionCode": 5,
+  "versionName": "2.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/brunolencin-dev/GitHub_dev/main/ColdMillRiskManagement.apk",
+  "releaseNotes": "• Versão 2.2.0: Auto-Backup automático em segundo plano a cada alteração de nota.\n• Integração com o repositório público GitHub para atualizações instantâneas no app.\n• Melhorias gerais na navegação e estabilidade do aplicativo.",
   "forceUpdate": false
 }
