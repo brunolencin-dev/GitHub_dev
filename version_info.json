@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "2.2.3",
+  "versionCode": 9,
+  "versionName": "2.3.0",
   "apkUrl": "https://raw.githubusercontent.com/brunolencin-dev/GitHub_dev/main/ColdMillRiskManagement.apk",
-  "releaseNotes": "• Versão 2.2.3: Ajuste de textos e layout completo sem cortes nos cartões.\n• Subtítulos de Ordens de Serviço, Sobressalentes e Tendências visíveis em 100% dos dispositivos.\n• Auto-Backup automático em segundo plano a cada alteração.",
+  "releaseNotes": "• Versão 2.3.0: Histórico e rastreabilidade de falhas com data/hora nos Módulos VDM6000.\n• Regra de teste obrigatório de módulos reprovados em Reservas Aprovados antes do envio a campo.\n• Auto-Backup e verificação de atualizações integradas.",
   "forceUpdate": false
 }
